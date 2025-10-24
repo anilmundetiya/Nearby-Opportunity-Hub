@@ -1,0 +1,7 @@
+{
+  "name": "Nearby Tech Hub",
+  "description": "An application to find nearby IT, Computer Science, and related-field companies using your location. It leverages Gemini with Search and Maps grounding to provide up-to-date information and website links for job applications.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
